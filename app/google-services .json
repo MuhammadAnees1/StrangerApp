@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "480686177496",
+    "project_id": "strangerscallapp",
+    "storage_bucket": "strangerscallapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480686177496:android:2417b1ade94dcc46aeebad",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480686177496-2mvufuqi3ir835ae7pgvnuj5mof7ul06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQAecOGkTpg5Go8l0WaH-dHrp5oXG7v5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480686177496-2mvufuqi3ir835ae7pgvnuj5mof7ul06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
